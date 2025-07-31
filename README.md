@@ -2,11 +2,6 @@
 
 *Bring Anime to Life, Instantly and Seamlessly*
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/your-username/your-repository" alt="last commit">
-  <img src="https://img.shields.io/github/languages/top/your-username/your-repository?color=blue&logo=dart" alt="dart percentage">
-  <img src="https://img.shields.io/github/languages/count/your-username/your-repository" alt="languages">
-</p>
 
 *Built with the tools and technologies:*
 
