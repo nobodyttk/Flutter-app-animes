@@ -19,6 +19,14 @@
   <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
 </p>
 
+##  Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nobodyttk/Flutter-app-animes/main/assets/Screenshot_20250730_203021.png" alt="Screenshot 1" width="200"/>
+  <img src="https://raw.githubusercontent.com/nobodyttk/Flutter-app-animes/main/assets/Screenshot_20250730_203044.png" alt="Screenshot 2" width="200"/>
+  <img src="https://raw.githubusercontent.com/nobodyttk/Flutter-app-animes/main/assets/Screenshot_20250730_203057.png" alt="Screenshot 3" width="200"/>
+  <img src="https://raw.githubusercontent.com/nobodyttk/Flutter-app-animes/main/assets/Screenshot_20250730_203104.png" alt="Screenshot 4" width="200"/>
+</p>
 ---
 
 ## Table of Contents
