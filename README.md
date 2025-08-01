@@ -71,13 +71,13 @@ Build Flutter-app-animess from the source and install dependencies:
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/your-repository
+    git clone https://github.com/nobodyttk/Flutter-app-animes.git
     ```
 
 2.  **Navigate to the project directory:**
 
     ```sh
-    cd your-repository
+    cd Flutter-app-animes
     ```
 
 3.  **Install the dependencies:**
